@@ -1,0 +1,39 @@
+span {
+      font-size: 50px;
+      text-align: center;
+
+}
+ol{
+    margin-left: 25px;
+    font-size: 30px;
+   list-style-type: none;
+
+
+}
+ul{
+    font-size:20px;
+}
+a {
+     text-decoration: none;
+     color: white;
+}
+a:hover {
+    color: rgb(143, 139, 139);
+}
+body{
+    background-image: url(otto.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.data {
+    position: relative;
+}
+#mainHeader{
+    text-align: center;
+}
+#OTsultans{
+    text-align: center;
+    font-size: 50px;
+}
